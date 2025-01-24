@@ -1,7 +1,7 @@
 """
 Imgflip Meme Generator
 Supports English, Hindi, or any Unicode text captions.
-Author: Your Name
+Author: Soumyaditya
 Version: 1.0
 """
 
